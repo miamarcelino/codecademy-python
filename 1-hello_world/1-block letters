@@ -1,0 +1,15 @@
+#Write a Python program called initials.py that displays the initials of your name in block letters as shown and dip your toes into ASCII art.
+
+first_initial = '''
+M   M
+MM MM
+MM MM
+M M M
+M   M
+M   M 
+M   M
+'''
+print(first_initial)
+second_initial = first_initial
+print(second_initial)
+print(first_initial+ second_initial)
